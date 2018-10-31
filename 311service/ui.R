@@ -62,7 +62,7 @@ body <-  dashboardBody(
 
 
 dashboardPage(
-  dashboardHeader(title = "2018 NYC 311 services information",titleWidth = 420),
+  dashboardHeader(title = "NYC 311 services information",titleWidth = 420),
   sidebar,
   body
 )
