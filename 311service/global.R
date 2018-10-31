@@ -7,7 +7,7 @@ library(lubridate)
 library(data.table)
 library(googleVis)
 
-setwd("C:/nydsa bootcamp slides/Projects/2/Shinyapp/311service")
+#setwd("C:/nydsa bootcamp slides/Projects/2/Shinyapp/311service")
 service_data <- read.csv(file = "./data_v3.csv")
 #service_data <- read.csv(file = "./test.csv")
 
